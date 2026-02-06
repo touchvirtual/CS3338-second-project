@@ -1,0 +1,45 @@
+commit 94563832e228e155a63483a3ec6c0d7451f11db3
+Merge: 9a654a1 9926136
+Author: touchvirtual <israelmelchor1@gmail.com>
+Date:   Thu Feb 5 20:53:23 2026 -0800
+
+    Resolved merge conflict in index.html
+
+commit 9926136c56cfbeff0e56e64844ad0d418f1cf881
+Author: touchvirtual <israelmelchor1@gmail.com>
+Date:   Thu Feb 5 20:51:25 2026 -0800
+
+    Added favorite game div
+
+commit 9a654a110bd6d0bd9b5b5550727ac5b8d483b51b
+Author: touchvirtual <israelmelchor1@gmail.com>
+Date:   Thu Feb 5 20:42:08 2026 -0800
+
+    Added favorite food div
+
+commit 39f4e8bdfa119ec43a269e293d508065680d858d
+Author: touchvirtual <israelmelchor1@gmail.com>
+Date:   Thu Feb 5 20:39:22 2026 -0800
+
+    Added README describing the repo
+
+commit 470ec20cde17964ffa249473cbb49f3545a2c030
+Merge: 1d2bfc0 bc30764
+Author: Israel Melchor <155297236+touchvirtual@users.noreply.github.com>
+Date:   Thu Feb 5 20:35:35 2026 -0800
+
+    Merge pull request #1 from touchvirtual/info-fill
+    
+    Filled in missing info in index.html
+
+commit bc30764833ffa19026cb1963b90ec22da176f0eb
+Author: touchvirtual <israelmelchor1@gmail.com>
+Date:   Thu Feb 5 20:17:29 2026 -0800
+
+    Filled in missing info in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
